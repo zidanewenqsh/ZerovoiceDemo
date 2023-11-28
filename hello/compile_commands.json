@@ -1,0 +1,38 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Iinclude",
+            "-o",
+            "obj/foo.o",
+            "src/foo.c"
+        ],
+        "directory": "/data/home/wenquanshan/MyProjects/ZerovoiceDemo/hello",
+        "file": "src/foo.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Iinclude",
+            "-o",
+            "obj/module.o",
+            "src/module.c"
+        ],
+        "directory": "/data/home/wenquanshan/MyProjects/ZerovoiceDemo/hello",
+        "file": "src/module.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Iinclude",
+            "-o",
+            "obj/main.o",
+            "src/main.c"
+        ],
+        "directory": "/data/home/wenquanshan/MyProjects/ZerovoiceDemo/hello",
+        "file": "src/main.c"
+    }
+]
